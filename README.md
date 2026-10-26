@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Inframappa, Inc. is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://inframappa.com/
+InfraMappa provides a digital mapping platform that creates searchable digital twins of facilities. The platform aggregates scattered facility data into a single source of truth and offers 2D maps, interactive 3D AR/VR views, and tools for data management, budgeting, planning, and compliance. It is sold to organizations that manage facilities such as education, healthcare, commercial and industrial sites, residential communities, and public agencies.
+
+**Areas:** Facility Management · Digital Twin · GIS Mapping · Data Management · Compliance · Capital Planning · Construction Engineering · Emergency Response
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://inframappa.com/)
+- [Documentation](https://dev.inframappa.com/)
+- [Pricing](https://inframappa.com/pricing/)
+- [Privacy policy](https://inframappa.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/inframappa-inc/](https://apis.io/providers/inframappa-inc/).
